@@ -1,2 +1,2 @@
 # Code
-this contains some of my java code
+Some Standard Algorithms in Python
